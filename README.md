@@ -25,14 +25,6 @@ Apasionado por la calidad del software, enfocado en testing manual, análisis de
 - 📚 Continuously learning QA methodologies and best practices  
 
 ---
----# 👋 Jorge Luis Morales Almanza
-## QA Engineer Junior | Manual Testing | Test Design
-
-Welcome to my QA portfolio.  
-Here you can find my hands-on projects developed during my QA Engineer bootcamp.
-
----
-
 ## 🧪 QA Skills
 - Manual Testing
 - Test Case Design
@@ -70,8 +62,9 @@ Here you can find my hands-on projects developed during my QA Engineer bootcamp.
 ---
 
 📍 Location: Mexico  
-📫 Email: tuemail@email.com  
-🔗 LinkedIn: https://linkedin.com/in/TU-LINKEDIN
+📫 Email: moraljorge621@gmail.com  
+🔗 LinkedIn: www.linkedin.com/in/
+jorge-luis-morales-almanza-
 
 
 ### 🛠 Tools
