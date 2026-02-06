@@ -25,20 +25,54 @@ Apasionado por la calidad del software, enfocado en testing manual, análisis de
 - 📚 Continuously learning QA methodologies and best practices  
 
 ---
+---# 👋 Jorge Luis Morales Almanza
+## QA Engineer Junior | Manual Testing | Test Design
 
-### 🧪 QA Skills & Techniques
-
-- Manual Testing  
-- Test Case Design  
-- Test Checklists  
-- Equivalence Partitioning  
-- Boundary Value Analysis  
-- Positive & Negative Testing  
-- Regression Testing  
-- Cross-Browser Testing  
-- Requirements Analysis  
+Welcome to my QA portfolio.  
+Here you can find my hands-on projects developed during my QA Engineer bootcamp.
 
 ---
+
+## 🧪 QA Skills
+- Manual Testing
+- Test Case Design
+- Checklists
+- Equivalence Partitioning
+- Boundary Value Analysis
+- Regression Testing
+- Cross-Browser Testing
+- Bug Reporting
+- Requirements Analysis
+
+---
+
+## 📂 Projects
+
+### 🔹 Around – Manual Testing (Sprint 1)
+📌 Social media web application testing  
+🔗 Repository:  
+👉 https://github.com/TU-USUARIO/around-testing-sprint-1
+
+---
+
+### 🔹 Urban Routes – Requirements Analysis & Test Design (Sprint 2)
+📌 Ride-sharing app – requirements analysis & test design  
+🔗 Repository:  
+👉 https://github.com/TU-USUARIO/urban-routes-sprint-2
+
+---
+
+### 🔹 Urban Routes – Functional & Cross-Browser Testing (Sprint 3)
+📌 Functional testing of booking & payment flows  
+🔗 Repository:  
+👉 https://github.com/TU-USUARIO/urban-routes-sprint-3
+
+---
+
+📍 Location: Mexico  
+📫 Email: tuemail@email.com  
+🔗 LinkedIn: https://linkedin.com/in/TU-LINKEDIN
+
 
 ### 🛠 Tools
 
