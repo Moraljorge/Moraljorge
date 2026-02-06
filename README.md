@@ -63,8 +63,7 @@ Apasionado por la calidad del software, enfocado en testing manual, análisis de
 
 📍 Location: Mexico  
 📫 Email: moraljorge621@gmail.com  
-🔗 LinkedIn: www.linkedin.com/in/
-jorge-luis-morales-almanza-
+🔗 LinkedIn: www.linkedin.com/in/jorge-luis-morales-almanza-
 
 
 ### 🛠 Tools
