@@ -43,8 +43,7 @@ Apasionado por la calidad del software, enfocado en testing manual, análisis de
 ### 🔹 Around – Manual Testing (Sprint 1)
 📌 Social media web application testing  
 🔗 Repository:  
-👉 https://github.com/TU-USUARIO/around-testing-sprint-1
-
+👉 https://github.com/Moraljorge/Triple_ten_Proyecto_1_Around
 ---
 
 ### 🔹 Urban Routes – Requirements Analysis & Test Design (Sprint 2)
