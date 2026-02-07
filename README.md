@@ -44,6 +44,7 @@ Apasionado por la calidad del software, enfocado en testing manual, análisis de
 📌 Social media web application testing  
 🔗 Repository:  
 👉 https://github.com/Moraljorge/Triple_ten_Proyecto_1_Around
+
 ---
 
 ### 🔹 Urban Routes – Requirements Analysis & Test Design (Sprint 2)
