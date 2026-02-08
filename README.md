@@ -50,7 +50,7 @@ Apasionado por la calidad del software, enfocado en testing manual, análisis de
 ### 🔹 Urban Routes – Requirements Analysis & Test Design (Sprint 2)
 📌 Ride-sharing app – requirements analysis & test design  
 🔗 Repository:  
-👉 https://github.com/TU-USUARIO/urban-routes-sprint-2
+👉 https://github.com/Moraljorge/qa-project-2-test-cases
 
 ---
 
